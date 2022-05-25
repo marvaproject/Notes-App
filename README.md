@@ -1,5 +1,5 @@
 # NotesApp
-RPL IDN Learning, Source Code Project 6
+RPL IDN Learning | Class 10
 
 ## In this project i have learn about:
 - Custom ActionBar using MaterialToolbar
@@ -20,10 +20,3 @@ RPL IDN Learning, Source Code Project 6
 - Sort Data by Priority (EnumClass)
 - MVVM Architecture
 - ViewModel
-
-## This is the result of my learn
-| <img src="/images/ss1.jpg"/> | <img src="/images/ss2.jpg"/> |
-| :--: | :--: |
-
-| <img src="/images/ss5.jpg"/> | <img src="/images/ss9.jpg"/> |
-| :--: | :--: |
